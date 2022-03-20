@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.0",
+    "@fortawesome/free-regular-svg-icons": "^6.1.0",
+    "@fortawesome/free-solid-svg-icons": "^6.1.0",
+    "@fortawesome/react-fontawesome": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
